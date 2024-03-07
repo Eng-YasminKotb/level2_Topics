@@ -4,3 +4,4 @@
   -BFS
   -DFS
   -Dijkstra
+4)Dynamic Programming

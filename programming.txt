@@ -1,3 +1,6 @@
 1)recursion
 2)backtracking
 3)grapg theory
+  -BFS
+  -DFS
+  -Dijkstra

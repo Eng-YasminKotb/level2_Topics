@@ -6,3 +6,4 @@
   -Dijkstra
 4)Dynamic Programming
 5)advanced
+6)contest
